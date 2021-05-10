@@ -29,13 +29,5 @@ python src/app.py
 ## Ejecución MySQL 
 ```bash
 # Abrir consola interactiva
-mongo
-# Mostrar DB
-show dbs
-
-use pythonmongodb
-
-show collections
-# Ver resultados
-db.users.find().pretty() 
+...En Progreso
 ```
